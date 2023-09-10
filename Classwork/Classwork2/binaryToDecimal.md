@@ -8,3 +8,6 @@
 
 3.) Convert $0101010_2$ to decimal   
 > $42$   
+
+4.) Convert $11111111_2$ to decimal   
+> $225$   
