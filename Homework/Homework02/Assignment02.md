@@ -10,7 +10,7 @@
 2.) What are some of the parts of a computer system?  
 > Answer 2 here.  
      
-3.) What is the difference between a compiled language and an intepreted language?  
+3.) What is the difference between a compiled language and an interpreted language?  
 > Answer 3 here.  
      
 4.) Is "C" a compiled language?  
@@ -34,7 +34,7 @@
 10.) What does the "C" function ***atof()*** do?  
 > Answer 10 here.  
      
-11.) What are the bottom two layers of a computer system? Give a brief desciption of each.  
+11.) What are the bottom two layers of a computer system? Give a brief description of each.  
 > Answer 11 here.  
      
 12.) What are the three "steps" of the Von Neumann Architecture?  
