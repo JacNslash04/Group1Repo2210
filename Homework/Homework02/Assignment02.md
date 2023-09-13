@@ -31,7 +31,7 @@
 > The command to list the contents of a directory on a mac terminal window is “ls” or “ls <directory>” (Command Line Page)
      
 10.) What does the "C" function ***atof()*** do?  
-> The atof() function in C converts a string to a float number as the function name stands for “ASCII to Float”.   
+> The ***atof()*** function in C converts a string to a float number as the function name stands for “ASCII to Float”.   
       
 11.) What are the bottom two layers of a computer system? Give a brief description of each.  
 > The bottom two layers of a computer system are the Digital Logic Layer and the Control Layer. The Digital Logic Layer consists of the hardware that all of the computer’s operations run on. Examples of this layer can be found in gates, circuitry, motherboards, chips, etc. The Control Layer contains the microcode that utilizes the hardware of the Digital Logic layer for its execution.  
