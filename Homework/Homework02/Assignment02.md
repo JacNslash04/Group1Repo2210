@@ -55,11 +55,11 @@
 >.  There are a total of 3 buses included in the system bus: The Data Bus, The Address Bus, and The Control Bus.   
      
 18.) What is the decimal value of $10010111_2$?    
->The decimal value of 10010111 is 151.   
+>The decimal value of $10010111_2$ is $151_{10}$.   
      
 19.) What is the decimal value of $11111111_2$?   
-> The decimal value of 11111111 is 255.   
+> The decimal value of $11111111_2$ is $255_{10}$.   
      
 20.) What is the largest unsigned integer value that will fit into 16 bits?  
-> The largest unsigned integer value that will fit into 16 bits is 65,535.   
+> The largest unsigned integer value that will fit into 16 bits is $65,535_{10}$.   
      
