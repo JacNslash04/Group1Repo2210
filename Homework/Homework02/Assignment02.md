@@ -52,7 +52,7 @@
 >  No, machine language is pure binary. The phrase ***cmp rdi, rsi*** is an example of assembly language.   
      
 17.) How many buses are included in the system bus?  
->.  There are a total of 3 buses included in the system bus: The Data Bus, The Address Bus, and The Control Bus.   
+>  There are a total of 3 buses included in the system bus: The Data Bus, The Address Bus, and The Control Bus.   
      
 18.) What is the decimal value of $10010111_2$?    
 >The decimal value of $10010111_2$ is $151_{10}$.   
