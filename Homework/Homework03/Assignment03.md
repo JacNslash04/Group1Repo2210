@@ -94,11 +94,11 @@
 > FF7FFFFF  
 4. The smallest non-zero positive IEEE-754 single precision float, in hex is:  
 > 00000001  
-5. $-5.125 \times 2^{90} as a 32-bit float, in hex is:  
+5. $-5.125 \times 2^{90}$ as a 32-bit float, in hex is:  
 > FF800000  
 6. $2^{-138}$ as a 32-bit float, in hex is:  
 > 00000001  
-7. $1.5 \times 2^{-143} as a 32-bit float, in hex is:  
+7. $1.5 \times 2^{-143}$ as a 32-bit float, in hex is:  
 > 00000002  
 8. OPTIONAL — Try this for a challenge, a puzzle, or the experience:
 Hex C059000000000000, when interpreted as an IEEE-754 pattern, is in decimal:   
