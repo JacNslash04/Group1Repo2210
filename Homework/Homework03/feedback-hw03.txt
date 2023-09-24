@@ -1,0 +1,101 @@
+
+
+Evaluation Criteria ~ homework03
+CMSI 2210 Section 03 Fall 2023
+=================================
+CONVERSIONS
+
+Problems "C-level"
+=================
+   Question 01      1/1 pt.
+   Question 02      1/1 pt.
+   Question 03      1/1 pt.
+   Question 04      1/1 pt.
+   Question 05      1/1 pt.
+   Question 06      1/1 pt.
+   Question 07      1/1 pt.
+   Question 08      1/1 pt.
+   Question 09      1/1 pt.
+   Question 10      1/1 pt.
+   Question 11      1/1 pt.
+   Question 12      1/1 pt.
+   Question 13      1/1 pt.
+   Question 14      1/1 pt.
+   Question 15      1/1 pt.
+   Question 16      1/1 pt.
+   Question 17      1/1 pt.
+   Question 18      1/1 pt.
+   Question 19      1/1 pt.
+   Question 20      1/1 pt.
+   Question 21      1/1 pt.
+   Question 22      1/1 pt.
+
+
+Problems "B-level"
+=================
+[renumber so only the actual questions are numbered]
+   Question  01     1/1 pt.
+   Question  02     1/1 pt.
+   Question  03     1/1 pt.
+   Question  04     0/1 pt.   nope!
+   Question  05     1/1 pt.
+   Question  06     1/1 pt.
+   Question  07     1/1 pt.
+   Question  08     1/1 pt.
+   Question  09     1/1 pt.
+   Question  10     1/1 pt.
+   Question  11     1/1 pt.
+   Question  12     1/1 pt.
+   Question  13     1/1 pt.
+   Question  14     1/1 pt.
+   Question  15     1/1 pt.
+   Question  16     0/1 pt.   nope!
+
+
+Problems "A-level"
+=================
+[renumber so only the actual questions are numbered]
+   Question  01     1/1 pt.
+   Question  02     1/1 pt.
+   Question  03     1/1 pt.
+   Question  04     1/1 pt.
+   Question  05     0/1 pt.   nope!
+   Question  06     0/1 pt.   nope!
+   Question  07     0/1 pt.   nope!
+   Question  08   for fun only!
+
+Total possible points 45
+
+========================================================
+TOTAL EARNED POINTS:
+   You earned 22/22 for the "C-level"
+   you earned 14/16 for the "B-level"
+   You earned  4/ 7 for the "A-level"
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+on "B-level" #4, remember you won't have an overflow if the signs aren't
+the same.
+
+one "B-level" #16, check your math; should be -7.96875
+
+on "A-level" #5, remember there are two different number bases; try calculating
+2^90 as a decimal number, then multiply by -5.125, then put that result into
+the converter on the web page at:
+      https://www.h-schmidt.net/FloatConverter/IEEE754.html
+
+on "A-level" #6 and #7, do the same as on #5.
+
+Good for you to try the optional problem.
+
+THIS IS VERY GOOD WORK!
+========================================================
+FIRST PASS OUTCOME:
+
+Currently, because you got all correct on only the "C-level" problems you
+have a "C" for the assignment.
+
+Make your corrections and re-submit to your repo by Thursday, September 28th.
+You'll get full credit for the highest section's value that has 100% correct
+answers.
