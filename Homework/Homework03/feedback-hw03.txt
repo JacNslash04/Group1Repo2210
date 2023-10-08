@@ -37,7 +37,7 @@ Problems "B-level"
    Question  01     1/1 pt.
    Question  02     1/1 pt.
    Question  03     1/1 pt.
-   Question  04     0/1 pt.   nope!
+   Question  04     0/1 pt.   Corrected
    Question  05     1/1 pt.
    Question  06     1/1 pt.
    Question  07     1/1 pt.
@@ -49,7 +49,7 @@ Problems "B-level"
    Question  13     1/1 pt.
    Question  14     1/1 pt.
    Question  15     1/1 pt.
-   Question  16     0/1 pt.   nope!
+   Question  16     0/1 pt.   nope!  Still incorrect
 
 
 Problems "A-level"
@@ -57,11 +57,11 @@ Problems "A-level"
 [renumber so only the actual questions are numbered]
    Question  01     1/1 pt.
    Question  02     1/1 pt.
-   Question  03     1/1 pt.
+   Question  03     1/1 pt.   incorrect; should be 0x80000001
    Question  04     1/1 pt.
-   Question  05     0/1 pt.   nope!
-   Question  06     0/1 pt.   nope!
-   Question  07     0/1 pt.   nope!
+   Question  05     0/1 pt.   nope!  Still incorrect
+   Question  06     0/1 pt.   nope! should be 0x00000800
+   Question  07     0/1 pt.   nope! should be 0x00000060
    Question  08   for fun only!
 
 Total possible points 45
@@ -99,3 +99,13 @@ have a "C" for the assignment.
 Make your corrections and re-submit to your repo by Thursday, September 28th.
 You'll get full credit for the highest section's value that has 100% correct
 answers.
+
+========================================================
+FINAL PASS OUTCOME:
+
+Combining all levels into one assignment.
+
+Total of 45 problems.
+
+You earned 40/45 which is 88.89% which is a B-plus.
+
