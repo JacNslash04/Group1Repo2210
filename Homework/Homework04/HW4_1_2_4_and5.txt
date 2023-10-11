@@ -1,0 +1,32 @@
+Question 1:
+
+x:= A OR (B AND C)
+Y:= (B OR C) NAND A
+
+Question 2:
+
+See Image in Homework 4 Folder
+
+Question 4: 
+
+value:		0x00
+top:	LOAD	value
+	WRITE	0x08
+	ADD	0x01
+	STORE	value
+	SUB	0x100
+	JLZ	top
+end:	JMP	end
+
+
+Question 5:
+
+C0000000	value:		0x00
+00000000	top:	LOAD	value
+30000002		WRITE	0x08
+40000003		ADD	0x01
+10000000		STORE	value
+50000004		SUB	0x100
+E0000001		JLZ	top
+C0000007	end:	JMP	end
+
