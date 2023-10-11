@@ -45,5 +45,13 @@ Question #8
 	start:	JGZ	jump	; if accumulator > 0, JMP to jump
 		JZ	jump	; if accumulator = 0, JMP to jump
 	jump:	JMP	loc	; JMP to loc
-	
+
+
+Question #9
+
+pt1: At a high level, the final r8 becomes the original r9.
+pt2: Going bit by bit in r8 and r9, consider the 3 (technically 4) cases. 
+- Case 1, a bit in r8 is 1 and r9 is 1, then r8 is flipped to 0, then r9 stays 1, and r8 is then flipped back to 1.
+- Case 2 (same as r8=1 & r9=0), a bit in r8 is 0 and r9 is 1, then r8 stays 1, then r9 flips to 0, and r8 stays 1.
+- case 3, a bit in r8 is 0 and r9 is 0, then r8 stays 0, r9 stays 0, and r8 stays 0 again.
 		
