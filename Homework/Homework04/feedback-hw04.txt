@@ -1,0 +1,72 @@
+
+
+Evaluation Criteria ~ homework04
+CMSI 2210 Section 03 Fall 2023
+=================================
+
+LOGIC DESIGN
+   Logic Question 1a         10 pts.
+   Logic Question 1b          5 pts.
+   Logic Question 2           2 pts.
+
+REGISTER OPERATIONS
+   Register clear even        2 pts.
+   Register set last 3        2 pts.
+   Reg./8 remainder           2 pts.
+   Reg. set to -1             2 pts.
+   Reg. invert 2 MSBs         2 pts.
+   Register computation       2 pts.
+
+STANLEY/PENGUIN ASSEMBLY
+   Q4 - program 1a           10 pts.
+   Q5 - program 1b           11 pts.
+   Q6 - GCD prog.             9 pts.
+   Q7 - swap frag             5 pts.
+   Q8 - jmp to addr           5 pts.
+
+REGISTER INVESTIGATION
+   Q9a - high level expl.     5 pts.
+   Q9b - Why?                 5 pts.
+
+
+Total possible points        90 points
+
+========================================================
+
+TOTAL EARNED POINTS:
+   you earned 79.0/ 90.0 which is 87.78% which is a B-plus
+
+========================================================
+SPECIFIC COMMENTS/FEEDBACK:
+
+On problem 1, you need four equations, two for X and two for Y.
+
+On problem 2, you have the right concept, but this doesn't quite make it a
+logic diagram.  You need AND gates, OR gates, XOR gates, and NOT gates.
+
+ON problem 4, you forgot the "JMP start" on the first line to skip over the
+data area.
+
+On problem 5, same thing, since you missed that line on problem 4.  However,
+the rest is translated correctly so full credit.
+
+On problem 6, you need to READ the two values from the input port, not just
+assume they are there.  Did you look into Euclid's algorithm for finding the
+GCD?  It's much simpler...  I think this will still work, though...
+
+On Problem 7, you only needed a fragment, not a full program.  Same for
+problem 8.
+
+Otherwise, good work!
+
+========================================================
+SEMESTER SCORE SO FAR:
+
+   homework01 ~ 100.00% of  5 points =  5.00 points
+   homework02 ~ 100.00% of  5 points =  5.00 points
+   homework03 ~  88.89% of  5 points =  4.45 points
+   homework04 ~  87.78% of  5 points =  4.39 points
+                                total: 18.84 out of 20.0 = 94.17%
+                                which is a solid A
+
+Keep up the good work!
