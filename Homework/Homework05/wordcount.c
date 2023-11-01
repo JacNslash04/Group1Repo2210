@@ -1,3 +1,9 @@
+/* 
+This file is meant to count the amount of words in a file 
+Command to compile this source file: "gcc -o wordcount wordcount.c"
+Commnad to run this source file after compilation: ./wordcount YOUR_FILE_NAME.txt 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
