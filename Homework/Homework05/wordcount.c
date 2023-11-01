@@ -15,6 +15,7 @@ int main(int argc, char *argv[]) {
 
     FILE *file = fopen(argv[1], "r");
 
+    // Checks for lack of file being submitted
     if (file == NULL) {
         perror("Failed to open file");
         return 1;
@@ -32,7 +33,7 @@ int main(int argc, char *argv[]) {
             wordCount++;
         }
     }
-
+    // Error handling
     if (ferror(file)) {
         perror("File reading error");
     }
